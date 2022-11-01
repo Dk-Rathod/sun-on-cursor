@@ -1,0 +1,202 @@
+body{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+div{
+    height: 50px;
+    width: 50px;
+    position:absolute;
+    display: inline-block;
+    background-color:#87ceeb;
+
+}
+div:hover{
+    background: url(img/sun.png) no-repeat;
+    
+
+}
+
+#img{
+    top: 29.4%;
+ 
+    right: 99%;
+}
+#img2{
+    top: 29.4%;
+    right: 10%; 
+    
+}
+#img3{
+    top: 70%;
+    right:20% ;
+}
+#img4{
+    top: 75%;
+    right:70% ;
+}
+#img5{
+    top:60% ;
+    right: 50%;
+}
+
+ #bk{
+    height:400px;
+    width: 1250px;
+    background-color: #008000;
+    top: 280px;
+    left: 0px;
+    border-radius: 0%;
+ 
+} 
+.b1{left: 0px; top: 0px;}
+.b2{left: 50px; top: 0px;}
+.b3{left: 100px; top: 0px;}
+.b4{left: 150px; top: 0px;}
+.b5{left: 200px; top: 0px;}
+.b6{left: 250px; top: 0px;}
+.b7{left: 300px; top: 0px;}
+.b8{left: 350px; top: 0px;}
+.b9{left: 400px; top: 0px;}
+.b10{left: 450px; top: 0px;}
+.b11{left: 500px; top: 0px;}
+.b12{left: 550px; top: 0px;}
+.b13{left: 600px; top: 0px;}
+.b14{left: 650px; top: 0px;}
+.b15{left: 700px; top: 0px;}
+.b16{left: 750px; top: 0px;}
+.b17{left: 800px; top: 0px;}
+.b18{left: 850px; top: 0px;}
+.b19{left: 900px; top: 0px;}
+.b20{left: 950px; top: 0px;}
+.b21{left: 1000px; top: 0px;}
+.b22{left: 1050px; top: 0px;}
+.b23{left: 1100px; top: 0px;}
+.b24{left: 1150px; top: 0px;}
+.b25{left: 1200px; top: 0px;}
+.b26{left: 0px; top: 50px;}
+.b27{left: 50px; top: 50px;}
+.b28{left: 100px; top: 50px;}
+.b29{left: 150px; top: 50px;}
+.b30{left: 200px; top: 50px;}
+.b31{left: 250px; top: 50px;}
+.b32{left: 300px; top: 50px;}
+.b33{left: 350px; top: 50px;}
+.b34{left: 400px; top: 50px;}
+.b35{left: 450px; top: 50px;}
+.b36{left: 500px; top: 50px;}
+.b37{left: 550px; top: 50px;}
+.b38{left: 600px; top: 50px;}
+.b39{left: 650px; top: 50px;}
+.b40{left: 700px; top: 50px;}
+.b41{left: 750px; top: 50px;}
+.b42{left: 800px; top: 50px;}
+.b43{left: 850px; top: 50px;}
+.b44{left: 900px; top: 50px;}
+.b45{left: 950px; top: 50px;}
+.b46{left: 1000px; top: 50px;}
+.b47{left: 1050px; top: 50px;}
+.b48{left: 1100px; top: 50px;}
+.b49{left: 1150px; top: 50px;}
+.b50{left: 1200px; top: 50px;}
+.b51{left: 0px; top: 100px;}
+.b52{left: 50px; top: 100px;}
+.b53{left: 100px; top: 100px;}
+.b54{left: 150px; top: 100px;}
+.b55{left: 200px; top: 100px;}
+.b56{left: 250px; top: 100px;}
+.b57{left: 300px; top: 100px;}
+.b58{left: 350px; top: 100px;}
+.b59{left: 400px; top: 100px;}
+.b60{left: 450px; top: 100px;}
+.b61{left: 500px; top: 100px;}
+.b62{left: 550px; top: 100px;}
+.b63{left: 600px; top: 100px;}
+.b64{left: 650px; top: 100px;}
+.b65{left: 700px; top: 100px;}
+.b66{left: 750px; top: 100px;}
+.b67{left: 800px; top: 100px;}
+.b68{left: 850px; top: 100px;}
+.b69{left: 900px; top: 100px;}
+.b70{left: 950px; top: 100px;}
+.b71{left: 1000px; top: 100px;}
+.b72{left: 1050px; top: 100px;}
+.b73{left: 1100px; top: 100px;}
+.b74{left: 1150px; top: 100px;}
+.b75{left: 1200px; top: 100px;}
+.b76{left: 0px; top: 150px;}
+.b77{left: 50px; top: 150px;}
+.b78{left: 100px; top: 150px;}
+.b79{left: 150px; top: 150px;}
+.b80{left: 200px; top: 150px;}
+.b81{left: 250px; top: 150px;}
+.b82{left: 300px; top: 150px;}
+.b83{left: 350px; top: 150px;}
+.b84{left: 400px; top: 150px;}
+.b85{left: 450px; top: 150px;}
+.b86{left: 500px; top: 150px;}
+.b87{left: 550px; top: 150px;}
+.b88{left: 600px; top: 150px;}
+.b89{left: 650px; top: 150px;}
+.b90{left: 700px; top: 150px;}
+.b91{left: 750px; top: 150px;}
+.b92{left: 800px; top: 150px;}
+.b93{left: 850px; top: 150px;}
+.b94{left: 900px; top: 150px;}
+.b95{left: 950px; top: 150px;}
+.b96{left: 1000px; top: 150px;}
+.b97{left: 1050px; top: 150px;}
+.b98{left: 1100px; top: 150px;}
+.b99{left: 1150px; top: 150px;}
+.b100{left: 1200px; top: 150px;}
+.b101{left: 0px; top: 200px;}
+.b102{left: 50px; top: 200px;}
+.b103{left: 100px; top: 200px;}
+.b104{left: 150px; top: 200px;}
+.b105{left: 200px; top: 200px;}
+.b106{left: 250px; top: 200px;}
+.b107{left: 300px; top: 200px;}
+.b108{left: 350px; top: 200px;}
+.b109{left: 400px; top: 200px;}
+.b110{left: 450px; top: 200px;}
+.b111{left: 500px; top: 200px;}
+.b112{left: 550px; top: 200px;}
+.b113{left: 600px; top: 200px;}
+.b114{left: 650px; top: 200px;}
+.b115{left: 700px; top: 200px;}
+.b116{left: 750px; top: 200px;}
+.b117{left: 800px; top: 200px;}
+.b118{left: 850px; top: 200px;}
+.b119{left: 900px; top: 200px;}
+.b120{left: 950px; top: 200px;}
+.b121{left: 1000px; top:200px;}
+.b122{left: 1050px; top: 200px;}
+.b123{left: 1100px; top: 200px;}
+.b124{left: 1150px; top: 200px;}
+.b125{left: 1200px; top: 200px;}
+.b126{left: 0px; top: 250px;}
+.b127{left: 50px; top: 250px;}
+.b128{left: 100px; top: 250px;}
+.b129{left: 150px; top: 250px;}
+.b130{left: 200px; top: 250px;}
+.b131{left: 250px; top: 250px;}
+.b132{left: 300px; top: 250px;}
+.b133{left: 350px; top: 250px;}
+.b134{left: 400px; top: 250px;}
+.b135{left: 450px; top: 250px;}
+.b136{left: 500px; top: 250px;}
+.b137{left: 550px; top: 250px;}
+.b138{left: 600px; top: 250px;}
+.b139{left: 650px; top: 250px;}
+.b140{left: 700px; top: 250px;}
+.b141{left: 750px; top: 250px;}
+.b142{left: 800px; top: 250px;}
+.b143{left: 850px; top: 250px;}
+.b144{left: 900px; top: 250px;}
+.b145{left: 950px; top: 250px;}
+.b146{left: 1000px; top:250px;}
+.b147{left: 1050px; top: 250px;}
+.b148{left: 1100px; top: 250px;}
+.b149{left: 1150px; top: 250px;}
+.b150{left: 1200px; top: 250px;}
